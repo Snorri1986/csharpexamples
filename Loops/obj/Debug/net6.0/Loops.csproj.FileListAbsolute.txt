@@ -1,0 +1,14 @@
+D:\Applications\CSharp\csharpexamples\Loops\bin\Debug\net6.0\Loops.exe
+D:\Applications\CSharp\csharpexamples\Loops\bin\Debug\net6.0\Loops.deps.json
+D:\Applications\CSharp\csharpexamples\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+D:\Applications\CSharp\csharpexamples\Loops\bin\Debug\net6.0\Loops.dll
+D:\Applications\CSharp\csharpexamples\Loops\bin\Debug\net6.0\Loops.pdb
+D:\Applications\CSharp\csharpexamples\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\CSharp\csharpexamples\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+D:\Applications\CSharp\csharpexamples\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+D:\Applications\CSharp\csharpexamples\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+D:\Applications\CSharp\csharpexamples\Loops\obj\Debug\net6.0\Loops.dll
+D:\Applications\CSharp\csharpexamples\Loops\obj\Debug\net6.0\refint\Loops.dll
+D:\Applications\CSharp\csharpexamples\Loops\obj\Debug\net6.0\Loops.pdb
+D:\Applications\CSharp\csharpexamples\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+D:\Applications\CSharp\csharpexamples\Loops\obj\Debug\net6.0\ref\Loops.dll
