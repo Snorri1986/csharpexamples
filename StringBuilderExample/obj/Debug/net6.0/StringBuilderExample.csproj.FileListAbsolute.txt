@@ -1,0 +1,14 @@
+D:\Applications\CSharp\csharpexamples\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.exe
+D:\Applications\CSharp\csharpexamples\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.deps.json
+D:\Applications\CSharp\csharpexamples\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.runtimeconfig.json
+D:\Applications\CSharp\csharpexamples\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.dll
+D:\Applications\CSharp\csharpexamples\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.pdb
+D:\Applications\CSharp\csharpexamples\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\CSharp\csharpexamples\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.AssemblyInfoInputs.cache
+D:\Applications\CSharp\csharpexamples\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.AssemblyInfo.cs
+D:\Applications\CSharp\csharpexamples\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.csproj.CoreCompileInputs.cache
+D:\Applications\CSharp\csharpexamples\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.dll
+D:\Applications\CSharp\csharpexamples\StringBuilderExample\obj\Debug\net6.0\refint\StringBuilderExample.dll
+D:\Applications\CSharp\csharpexamples\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.pdb
+D:\Applications\CSharp\csharpexamples\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.genruntimeconfig.cache
+D:\Applications\CSharp\csharpexamples\StringBuilderExample\obj\Debug\net6.0\ref\StringBuilderExample.dll
