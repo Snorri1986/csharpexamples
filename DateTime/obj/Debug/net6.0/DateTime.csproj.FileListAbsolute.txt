@@ -1,0 +1,14 @@
+D:\Applications\CSharp\csharpexamples\DateTime\bin\Debug\net6.0\DateTime.exe
+D:\Applications\CSharp\csharpexamples\DateTime\bin\Debug\net6.0\DateTime.deps.json
+D:\Applications\CSharp\csharpexamples\DateTime\bin\Debug\net6.0\DateTime.runtimeconfig.json
+D:\Applications\CSharp\csharpexamples\DateTime\bin\Debug\net6.0\DateTime.dll
+D:\Applications\CSharp\csharpexamples\DateTime\bin\Debug\net6.0\DateTime.pdb
+D:\Applications\CSharp\csharpexamples\DateTime\obj\Debug\net6.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\CSharp\csharpexamples\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfoInputs.cache
+D:\Applications\CSharp\csharpexamples\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfo.cs
+D:\Applications\CSharp\csharpexamples\DateTime\obj\Debug\net6.0\DateTime.csproj.CoreCompileInputs.cache
+D:\Applications\CSharp\csharpexamples\DateTime\obj\Debug\net6.0\DateTime.dll
+D:\Applications\CSharp\csharpexamples\DateTime\obj\Debug\net6.0\refint\DateTime.dll
+D:\Applications\CSharp\csharpexamples\DateTime\obj\Debug\net6.0\DateTime.pdb
+D:\Applications\CSharp\csharpexamples\DateTime\obj\Debug\net6.0\DateTime.genruntimeconfig.cache
+D:\Applications\CSharp\csharpexamples\DateTime\obj\Debug\net6.0\ref\DateTime.dll
