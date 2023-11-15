@@ -1,0 +1,14 @@
+D:\Applications\CSharp\csharpexamples\ClasseandObjects\bin\Debug\net6.0\ClasseandObjects.exe
+D:\Applications\CSharp\csharpexamples\ClasseandObjects\bin\Debug\net6.0\ClasseandObjects.deps.json
+D:\Applications\CSharp\csharpexamples\ClasseandObjects\bin\Debug\net6.0\ClasseandObjects.runtimeconfig.json
+D:\Applications\CSharp\csharpexamples\ClasseandObjects\bin\Debug\net6.0\ClasseandObjects.dll
+D:\Applications\CSharp\csharpexamples\ClasseandObjects\bin\Debug\net6.0\ClasseandObjects.pdb
+D:\Applications\CSharp\csharpexamples\ClasseandObjects\obj\Debug\net6.0\ClasseandObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\CSharp\csharpexamples\ClasseandObjects\obj\Debug\net6.0\ClasseandObjects.AssemblyInfoInputs.cache
+D:\Applications\CSharp\csharpexamples\ClasseandObjects\obj\Debug\net6.0\ClasseandObjects.AssemblyInfo.cs
+D:\Applications\CSharp\csharpexamples\ClasseandObjects\obj\Debug\net6.0\ClasseandObjects.csproj.CoreCompileInputs.cache
+D:\Applications\CSharp\csharpexamples\ClasseandObjects\obj\Debug\net6.0\ClasseandObjects.dll
+D:\Applications\CSharp\csharpexamples\ClasseandObjects\obj\Debug\net6.0\refint\ClasseandObjects.dll
+D:\Applications\CSharp\csharpexamples\ClasseandObjects\obj\Debug\net6.0\ClasseandObjects.pdb
+D:\Applications\CSharp\csharpexamples\ClasseandObjects\obj\Debug\net6.0\ClasseandObjects.genruntimeconfig.cache
+D:\Applications\CSharp\csharpexamples\ClasseandObjects\obj\Debug\net6.0\ref\ClasseandObjects.dll
